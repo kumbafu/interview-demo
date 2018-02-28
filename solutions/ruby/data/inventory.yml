@@ -1,0 +1,39 @@
+---
+- :artist: paula abdul
+  :name: forever your girl
+  :year: '1988'
+  :formats:
+  - :name: cd
+    :uuid: 198ce68c-7da6-499c-b871-53dcfdcffe9c
+    :count: 1
+- :artist: nine inch nails
+  :name: broken
+  :year: '1992'
+  :formats:
+  - :name: cd
+    :uuid: 06d9955c-8ee8-4458-b320-a4a64f65dbae
+    :count: 1
+  - :name: vinyl
+    :uuid: 6a784875-4788-4d3d-8166-99fb33a2d847
+    :count: 1
+- :artist: vanilla ice
+  :name: to the extreme
+  :year: '1990'
+  :formats:
+  - :name: tape
+    :uuid: 3ff682b9-fb6e-48e2-8d2b-7b0fb92dc864
+    :count: 1
+- :artist: pink floyd
+  :name: meddle
+  :year: '1971'
+  :formats:
+  - :name: vinyl
+    :uuid: 5b0755b2-6ff7-4161-a161-b1b2b29c4099
+    :count: 2
+- :artist: peter, paul and mary
+  :name: in the wind
+  :year: '1963'
+  :formats:
+  - :name: cd
+    :uuid: 92e3e503-3b79-471b-84fc-53fea7432b7b
+    :count: 1
